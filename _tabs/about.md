@@ -10,11 +10,11 @@ order: 4
 
 -->
 
-<p>Bienvenido a mi web. Mi nombre es Antonio José y soy Administrador de Sistemas y Redes en Sevilla, España.
+<p>Bienvenido a mi web. Mi nombre es Antonio José y soy Administrador de Sistemas y Redes.
 <br>
-Tengo más de 15 años de experiencia en el mundo de la informática. Me apasiona la seguridad informática y las redes de datos.
+Tengo más de 15 años de experiencia en el mundo de la informática. Me apasiona Unix, la seguridad informática y las redes de datos.
 <br>
-Soy bastante autodidacta en estos y otros campos, como por ejemplo, en bases de datos o análisis de datos. </p>
+Soy bastante autodidacta en estos y otros campos, como por ejemplo, en bases de datos. </p>
 <br>
 <b>Tecnologias que uso</b>
 <ul>
