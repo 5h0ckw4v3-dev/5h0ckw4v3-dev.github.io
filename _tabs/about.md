@@ -10,7 +10,7 @@ order: 4
 
 -->
 
-<p>Bienvenido a mi web. Mi nombre es Antonio José y soy Administrador de Sistemas y Redes en <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/>.
+<p>Bienvenido a mi web. Mi nombre es Antonio José y soy Administrador de Sistemas y Redes en España <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/>.
 <br>
 Tengo más de 15 años de experiencia en el mundo de la informática. Me apasiona Unix, la seguridad informática y las redes de datos.
 <br>
