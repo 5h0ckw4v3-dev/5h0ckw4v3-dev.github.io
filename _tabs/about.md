@@ -10,7 +10,7 @@ order: 4
 
 -->
 
-<p>Bienvenido a mi web. Mi nombre es Antonio José y soy Administrador de Sistemas y Redes en Sevilla, España.
+<p>Bienvenido a mi web. Mi nombre es Antonio José y soy Administrador de Sistemas y Redes en España.
 <br>
 Tengo más de 15 años de experiencia en el mundo de la informática. Me apasiona la seguridad informática y las redes de datos.
 <br>

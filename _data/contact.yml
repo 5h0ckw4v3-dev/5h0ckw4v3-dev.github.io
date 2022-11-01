@@ -1,8 +1,8 @@
 #  The contact options.
 
--
-  type: github
-  icon: 'fab fa-github'
+#-
+  #type: github
+  #icon: 'fab fa-github'
 -
   type: linkedin
   icon: 'fab fa-linkedin'
@@ -15,10 +15,10 @@
   type: hackthebox
   icon: 'fas fa-cube'
   url: 'https://www.hackthebox.com/home/users/profile/350150'
-  
-# type: rss
-# icon: 'fas fa-rss'
-# noblank: true
+-  
+  type: paypal
+  icon: 'fab fa-paypal'
+  url: 'https://www.paypal.me/antoniojm0ya'
 
 # Uncomment and complete the url below to enable more contact options
 # -
