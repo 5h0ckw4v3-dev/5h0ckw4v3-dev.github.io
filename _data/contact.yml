@@ -8,9 +8,8 @@
   icon: 'fab fa-linkedin'
   url: 'https://www.linkedin.com/in/antoniojosemoya'
 -
-  type: email
-  icon: 'fas fa-envelope'
-  noblank: true            # open link in current tab
+  type: twitter
+  icon: 'fab fa-twitter'
 -
   type: hackthebox
   icon: 'fas fa-cube'
@@ -33,3 +32,9 @@
 #   type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
+#
+#   type: twitter
+#   icon: 'fab fa-twitter'
+#   type: email
+#   icon: 'fas fa-envelope'
+#   noblank: true            # open link in current tab
