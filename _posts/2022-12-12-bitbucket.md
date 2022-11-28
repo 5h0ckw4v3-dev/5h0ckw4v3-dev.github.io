@@ -1,7 +1,7 @@
 ---
-title: Instalación y configuración de SVN en Ubuntu 
+title: Instalación y configuración de Bitbucket Server en Ubuntu 
 author: 5h0ckw4v3-dev
-date: '2022-11-27 09:30:00 +0100'
+date: '2022-12-12 09:30:00 +0100'
 categories:
   - Linux
 tags:
@@ -12,68 +12,51 @@ published: true
 ---
 ![SVN](/assets/img/common/svn.png)
 
-El término SVN se refiere a un software de control de versiones y existe desde hace mucho tiempo y aunque aplicaciones del tipo git (como el Github donde estas leyendo esto) o bitbucket puedan ser la evolución natural, lo cierto es que SVN se sigue usando.
+Tal y como vimos en el post anterior con la instalación de Subversion, hoy vamos a ver como instalar Bitbucket server en nuestro servidor Ubuntu. Para extrapolarlo a otro linux tenemos que tener en cuenta las dependencias ya que en RHEL o CentOS las versiones de Git en los repositorios son antiguas y hay que instalarlo compilando desde la fuente.
 
-Vamos a realizar una instalación básica en Ubuntu y puede ser extrapolable a cualquier Linux.
+## Descarga.
+Podemos hacer la descarga de tres maneras distintas. Ejecutable .bin y los comprimidos tar.gz y zip. En este caso vamos a hacerlo con .bin. Lo descargamos de la siguiente URL https://www.atlassian.com/es/software/bitbucket/download-archives
+
+## Requisitos.
+Si hacemos la instalacion con el .bin solamente necesitamos una version actualizada de Git. En Ubuntu no hay problema asi que instalamos normalmente.
+
+```plaintext
+sudo apt install git
+```
 
 ## Instalación.
-Realizamos la instalación de todos los paquetes necesarios.
+Damos permisos de ejecución y ejecutamos el archivo.
 
 ```plaintext
-sudo apt install apache2 subversion libapache2-svn libsvn-dev
+chmod +x atlassian-bitbucket-8.6.1-x64.bin
+./atlassian-bitbucket-8.6.1-x64.bin
 ```
+En las siguientes imágenes podemos ver las preguntas que va realizando y la respuesta. 
 
-Seguidamente habilitaremos los modulos necesarios en Apache.
+![bitbucket](/assets/img/common/bitbucket-1.jpg)
+
+![bitbucket](/assets/img/common/bitbucket-2.jpg)
+
+Una vez termine el proceso accedemos a la url.
 
 ```plaintext
-sudo a2enmod dav
-sudo a2enmod dav_svn
-```
-Y reiniciamos el servicio de Apache como de costumbre para aplicar los cambios.
-
-```plaintext
-sudo systemctl restart apache
+http://IP_Servidor:7990/setup
 ```
 
-## Configuración.
-Crearemos el directorio dedicado a subversión y otorgaremos los permisos necesarios.
+Y veremos lo siguiente
 
-```plaintext
-mkdir /var/www/svn
-chmod -R 755 /var/www/svn
-chown -R www-data:www-data /var/www/svn
-```
-Y ahora vamos a crear nuestro primer repositorio de pruebas.
+![bitbucket](/assets/img/common/bitbucket-3.jpg)
 
-```plaintext
-svnadmin create /var/www/svn/repositorio_prueba
-```
-Una vez tenemos toda la estructura de carpetas completada, vamos a configurar Apache.
-Editamos el siguiente archivo.
+Seguidamente necesitaremos la licencia de instalación. Para un server podemos solicitar una evaluación de 90 dias simplemente registrandonos en la web. Una vez hecho veremos algo así.
 
-```plaintext
-sudo nano /etc/apache2/mods-enabled/dav_svn.conf
-```
-Y añadimos lo siguiente.
+![bitbucket](/assets/img/common/bitbucket-4.jpg)
 
-```plaintext
-Alias /svn /var/www/svn
-<Location /svn>
-AuthType Basic
-AuthName “Subversion Repository”
-AuthUserFile /etc/apache2/svn.passwd
-Require valid-user
-<Location>
-```
+Una vez tenemos la licencia solo nos queda crear el usuario.
 
-Vamos ha crear un usuario para que pueda acceder al repositorio.
+![bitbucket](/assets/img/common/bitbucket-5.jpg)
 
-```plaintext
-sudo htpasswd -cm /etc/apache2/svn.passwd sh0ck
-```
+Iniciamos sesión y ya estamos dentro.
 
-Reiniciamos el servicio de apache y accedemos a la url de nuestro repositorio para probarlo. Nos pedirá introducir las credenciales 
+![bitbucket](/assets/img/common/bitbucket-6.jpg)
 
-```plaintext
-http://localhost/repositorio_prueba
-```
+A disfrutarlo! ;)
