@@ -1,7 +1,7 @@
 ---
 title: Instalación y configuración de Bitbucket Server en Ubuntu 
 author: 5h0ckw4v3-dev
-date: '2022-12-12 09:30:00 +0100'
+date: '2022-12-10 09:30:00 +0100'
 categories:
   - Linux
 tags:
@@ -10,7 +10,6 @@ tags:
 render_with_liquid: false
 published: true
 ---
-![SVN](/assets/img/common/svn.png)
 
 Tal y como vimos en el post anterior con la instalación de Subversion, hoy vamos a ver como instalar Bitbucket server en nuestro servidor Ubuntu. Para extrapolarlo a otro linux tenemos que tener en cuenta las dependencias ya que en RHEL o CentOS las versiones de Git en los repositorios son antiguas y hay que instalarlo compilando desde la fuente.
 
@@ -23,6 +22,35 @@ Si hacemos la instalacion con el .bin solamente necesitamos una version actualiz
 ```plaintext
 sudo apt install git
 ```
+
+En RHEL y derivados tenemos que instalar Git desde la fuente ya que los repositorios no tienen una versión actualizada del mismo.
+Básicamente la instalación seria algo asi:
+
+```plaintext
+sudo yum -y remove git*
+sudo yum -y install epel-release
+sudo yum -y groupinstall "Development Tools"
+sudo yum -y install wget perl-CPAN gettext-devel perl-devel openssl-devel zlib-devel curl-devel expat-devel getopt asciidoc xmlto docbook2X curl
+sudo ln -s /usr/bin/db2x_docbook2texi /usr/bin/docbook2x-texi
+	--  --  -- 
+export VER="v2.38.1"
+wget https://github.com/git/git/archive/${VER}.tar.gz
+tar -xvf ${VER}.tar.gz
+rm -f ${VER}.tar.gz
+cd git-*
+make configure
+sudo ./configure --prefix=/usr
+sudo make
+sudo make install
+```
+Y la desinstalación en caso de necesitarlo 😉:
+
+```plaintext
+./configure
+sudo make && sudo make DESTDIR=/var/tmp/git install
+sudo find /var/tmp/git -type f -printf '/%P\n' | sudo xargs -n 10 rm -f
+```
+
 
 ## Instalación.
 Damos permisos de ejecución y ejecutamos el archivo.
