@@ -30,7 +30,7 @@ Básicamente la instalación seria algo asi:
 sudo yum -y remove git*
 sudo yum -y install epel-release
 sudo yum -y groupinstall "Development Tools"
-sudo yum -y install wget perl-CPAN gettext-devel perl-devel openssl-devel zlib-devel curl-devel expat-devel getopt asciidoc xmlto docbook2X curl
+sudo yum -y install wget perl-CPAN gettext-devel perl-devel openssl-devel zlib-devel curl-devel expat-devel getopt asciidoc xmlto docbook2X curl zlib-devel
 sudo ln -s /usr/bin/db2x_docbook2texi /usr/bin/docbook2x-texi
 	--  --  -- 
 export VER="v2.38.1"
