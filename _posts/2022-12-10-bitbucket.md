@@ -1,7 +1,7 @@
 ---
 title: Instalación y configuración de Bitbucket Server en Ubuntu 
 author: 5h0ckw4v3-dev
-date: '2022-12-10 09:30:00 +0100'
+date: '2022-12-10 10:00:00 +0100'
 categories:
   - Linux
 tags:
