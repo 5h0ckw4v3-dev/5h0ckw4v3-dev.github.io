@@ -32,7 +32,7 @@ sudo docker run -d -p 9000:9000 --name=portainer --restart=always -v /var/run/do
 Una vez termina la instalación y la miniconfiguración que hemos aplicado en el segundo comando, nos dirijimos a http://[DIRECCIÓN-IP]:9000 
 
 
-**Instación de Nextcloud:**
+**Instalación de Nextcloud:**
 
 Realizamos la instalación desde el mismo repositorio de Docker.
 ```plaintext
