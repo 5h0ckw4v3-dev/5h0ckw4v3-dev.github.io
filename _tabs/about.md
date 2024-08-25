@@ -16,6 +16,14 @@ Tengo más de 15 años de experiencia en el mundo de la informática. Me apasion
 <br>
 Soy bastante autodidacta en estos y otros campos, como por ejemplo, en bases de datos. </p>
 <br>
+<b>Certificaciones</b>
+<p align style="right">
+<a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000224902/ru78s9x3d2" target="_blank"><img alt="LPIC-1" src="/assets/img/lpic.png" width="100"/></a>
+<a href="https://www.credly.com/badges/3cfbccf8-c514-4655-ae58-2ad09d657672/" target="_blank"><img alt="VMWare" src="/assets/img/vmware.png" width="94"/></a>
+</p>
+
+	
+<br>
 <b>Tecnologias que uso</b>
 <ul>
 <!--	<li><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></li> -->
@@ -24,10 +32,10 @@ Soy bastante autodidacta en estos y otros campos, como por ejemplo, en bases de 
 	<li><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></li>
 	<li><img alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /></li>
 	<li><img alt="Libreoffice" src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white" /></li>
-<!--	<li><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></li> -->
+<!--	<li><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></li> 
 	<li><img alt="Apache" src="https://img.shields.io/badge/Apache-D61900?style=for-the-badge&logo=apache&logoColor=white" /></li>
 	<li><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></li>
-	<li><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" /></li>
+	<li><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" /></li> -->
 	<li><img alt="Ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" /></li>
 	<li><img alt="Cisco" src="https://img.shields.io/badge/Cisco-4DC1E8?style=for-the-badge&logo=cisco&logoColor=white" /></li>
 	<li><img alt="VMWAre" src="https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white&style=for-the-badge" /></li>
