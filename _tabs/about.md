@@ -12,15 +12,18 @@ order: 4
 
 <p>Bienvenido a mi web. Mi nombre es Antonio José y soy Administrador de Sistemas y Redes en España.
 <br>
-Tengo más de 15 años de experiencia en el mundo de la informática. Me apasiona Unix, la seguridad informática y las redes de datos.
+Profesional IT con más de 15 años de experiencia en sistemas, redes y seguridad.
 <br>
-Soy bastante autodidacta en estos y otros campos, como por ejemplo, en bases de datos. </p>
+Actualmente lidero un equipo Unix/Linux en entorno bancario dentro de DXC Technology, gestionando infraestructuras críticas con foco en automatización, eficiencia operativa y alta disponibilidad.
+<br>
+Apasionado de la ciberseguridad, la virtualización y el aprendizaje continuo. Me considero una persona resolutiva, metódica y con mentalidad autodidacta.</p>
 <br>
 <b>Certificaciones</b>
 <p align style="right">
 <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000224902/ru78s9x3d2" target="_blank"><img alt="LPIC-1" src="/assets/img/lpic.png" width="100"/></a>
 <a href="https://www.credly.com/badges/3cfbccf8-c514-4655-ae58-2ad09d657672/" target="_blank"><img alt="VMWare" src="/assets/img/vmware.png" width="94"/></a>
 <a href="https://www.credly.com/badges/1d188caa-7573-4ae2-94f0-9777a1d2c3d3/" target="_blank"><img alt="Azure" src="/assets/img/az900.png" width="94"/></a>
+<a href="[https://www.credly.com/badges/1d188caa-7573-4ae2-94f0-9777a1d2c3d3](https://catalog-education.oracle.com/ords/certview/sharebadge?id=B1733ED89998AE9792ACF5E4BE07B0879FAA15E29714EA4404347C1D69432ED0)/" target="_blank"><img alt="Oracle" src="/assets/img/oci.png" width="94"/></a>
 </p>
 <br>
 <!-- <b>Tecnologias que uso</b> -->
