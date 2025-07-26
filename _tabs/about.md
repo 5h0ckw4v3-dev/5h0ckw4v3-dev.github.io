@@ -23,7 +23,7 @@ Apasionado de la ciberseguridad, la virtualización y el aprendizaje continuo. M
 <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000224902/ru78s9x3d2" target="_blank"><img alt="LPIC-1" src="/assets/img/lpic.png" width="100"/></a>
 <a href="https://www.credly.com/badges/3cfbccf8-c514-4655-ae58-2ad09d657672/" target="_blank"><img alt="VMWare" src="/assets/img/vmware.png" width="94"/></a>
 <a href="https://www.credly.com/badges/1d188caa-7573-4ae2-94f0-9777a1d2c3d3/" target="_blank"><img alt="Azure" src="/assets/img/az900.png" width="94"/></a>
-<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=B1733ED89998AE9792ACF5E4BE07B0879FAA15E29714EA4404347C1D69432ED0/" target="_blank"><img alt="Oracle" src="/assets/img/oci_.png" width="94"/></a>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=B1733ED89998AE9792ACF5E4BE07B0879FAA15E29714EA4404347C1D69432ED0" target="_blank"><img alt="Oracle" src="/assets/img/oci_.png" width="94"/></a>
 </p>
 <br>
 <!-- <b>Tecnologias que uso</b> -->
