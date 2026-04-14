@@ -14,9 +14,11 @@ order: 4
 <br>
 Profesional IT con más de 15 años de experiencia en sistemas, redes y seguridad.
 <br>
-Actualmente lidero un equipo Unix/Linux en entorno bancario dentro de DXC Technology, gestionando infraestructuras críticas con foco en automatización, eficiencia operativa y alta disponibilidad.
+Actualmente trabajo en proyectos de automatización para un cliente de la administración pública, diseñando y desplegando soluciones basadas en Ansible, Puppet, AWX, AAP y Satellite, orientadas a la estandarización y mejora continua de infraestructuras. Mi enfoque está centrado en la automatización y la eficiencia operativa de sistemas.
 <br>
-Apasionado de la ciberseguridad, la virtualización y el aprendizaje continuo. Me considero una persona resolutiva, metódica y con mentalidad autodidacta.</p>
+Anteriormente desempeñé el rol de líder técnico de un equipo Unix/Linux en entorno bancario dentro de DXC Technology, gestionando infraestructuras críticas con altos requisitos de disponibilidad, seguridad y rendimiento.
+<br>
+Apasionado de la ciberseguridad, la automatización y el aprendizaje continuo. Me considero una persona resolutiva, metódica y con mentalidad autodidacta, con una clara orientación a la mejora continua y a la optimización de procesos.</p>
 <br>
 <b>Certificaciones</b>
 <p align style="right">
@@ -46,6 +48,6 @@ Apasionado de la ciberseguridad, la virtualización y el aprendizaje continuo. M
 </ul> -->
 <b>Enlaces de interés</b>
 <p>
-<a href="https://twitter.com/_5h0ckw4v3_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<!-- <a href="https://twitter.com/_5h0ckw4v3_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
 <a href="https://www.credly.com/users/antonio-jose-moya-mellado/badges" target="_blank"><img alt="Credly" src="https://img.shields.io/badge/Credly-F56344?style=for-the-badge&logo=credly&logoColor=white" /></a>
 </p>
