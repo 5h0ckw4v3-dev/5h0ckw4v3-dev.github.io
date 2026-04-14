@@ -14,7 +14,7 @@ order: 4
 <br>
 Profesional IT con más de 15 años de experiencia en sistemas, redes y seguridad.
 <br>
-Actualmente trabajo en proyectos de automatización para un cliente de la administración pública, diseñando y desplegando soluciones basadas en Ansible, Puppet, AWX, AAP y Satellite, orientadas a la estandarización y mejora continua de infraestructuras. Mi enfoque está centrado en la automatización y la eficiencia operativa de sistemas.
+Actualmente trabajo en proyectos de automatización para un cliente de la administración pública, diseñando y desplegando soluciones basadas en Ansible, Puppet, AWX, AAP y Satellite, orientadas a la estandarización y mejora continua de infraestructuras. Mi enfoque está centrado en la automatización y la eficiencia operativa de sistemas. 
 <br>
 Anteriormente desempeñé el rol de líder técnico de un equipo Unix/Linux en entorno bancario dentro de DXC Technology, gestionando infraestructuras críticas con altos requisitos de disponibilidad, seguridad y rendimiento.
 <br>
