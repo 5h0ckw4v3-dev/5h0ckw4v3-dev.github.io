@@ -12,13 +12,13 @@ order: 4
 
 <p>Bienvenido a mi web. Mi nombre es Antonio José y soy Administrador de Sistemas y Redes en España.
 <br>
-Profesional IT con más de 15 años de experiencia en sistemas, redes y seguridad.
+Profesional IT con más de 15 años de experiencia en sistemas, redes y seguridad.</p>
 <br>
-Actualmente trabajo en proyectos de automatización para un cliente de la administración pública, diseñando y desplegando soluciones basadas en Ansible, Puppet, AWX, AAP y Satellite, orientadas a la estandarización y mejora continua de infraestructuras. Mi enfoque está centrado en la automatización y la eficiencia operativa de sistemas. 
+<p>Actualmente trabajo en proyectos de automatización para un cliente de la administración pública, diseñando y desplegando soluciones basadas en Ansible, Puppet, AWX, AAP y Satellite, orientadas a la estandarización y mejora continua de infraestructuras. Mi enfoque está centrado en la automatización y la eficiencia operativa de sistemas. </p>
 <br>
-Anteriormente desempeñé el rol de líder técnico de un equipo Unix/Linux en entorno bancario dentro de DXC Technology, gestionando infraestructuras críticas con altos requisitos de disponibilidad, seguridad y rendimiento.
+<p>Anteriormente desempeñé el rol de líder técnico de un equipo Unix/Linux en entorno bancario dentro de DXC Technology, gestionando infraestructuras críticas con altos requisitos de disponibilidad, seguridad y rendimiento.</p>
 <br>
-Apasionado de la ciberseguridad, la automatización y el aprendizaje continuo. Me considero una persona resolutiva, metódica y con mentalidad autodidacta, con una clara orientación a la mejora continua y a la optimización de procesos.</p>
+<p>Apasionado de la ciberseguridad, la automatización y el aprendizaje continuo. Me considero una persona resolutiva, metódica y con mentalidad autodidacta, con una clara orientación a la mejora continua y a la optimización de procesos.</p>
 <br>
 <b>Certificaciones</b>
 <p align style="right">
