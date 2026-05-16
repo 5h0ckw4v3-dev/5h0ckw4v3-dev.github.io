@@ -202,10 +202,10 @@ Este tipo de problemas son bastante comunes en proyectos que llevan tiempo funci
 
 Mientras todo funciona, es fácil dejar:
 
-- workflows antiguos
-- versiones flotantes
-- layouts heredados
-- dependencias desactualizadas
+- Workflows antiguos
+- Versiones flotantes
+- Layouts heredados
+- Dependencias desactualizadas
 
 El problema aparece cuando alguna pieza del ecosistema cambia y toda la cadena comienza a romperse.
 
