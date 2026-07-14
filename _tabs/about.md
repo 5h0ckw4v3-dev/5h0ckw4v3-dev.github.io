@@ -10,21 +10,21 @@ order: 4
 
 -->
 
-Bienvenido a mi web. Mi nombre es Antonio José y soy Administrador de Sistemas y Redes en España.
+Durante los últimos 15 años he trabajado en la operación, automatización y evolución de infraestructuras Linux en entornos donde la disponibilidad, la seguridad y la estabilidad son requisitos imprescindibles.
 
-Profesional IT con más de 15 años de experiencia en sistemas, redes y seguridad.
+Mi experiencia abarca desde la administración de sistemas hasta el liderazgo técnico de equipos, participando en proyectos de automatización, transformación de plataformas Linux Enterprise y estandarización de procesos para infraestructuras críticas.
 
-Actualmente trabajo en proyectos de automatización para un cliente de la administración pública, diseñando y desplegando soluciones basadas en Ansible, Puppet, AWX, AAP y Satellite.
+Trabajo principalmente con Red Hat Enterprise Linux, Ansible y Red Hat Satellite, colaborando con equipos multidisciplinares para implantar soluciones fiables, repetibles y sostenibles mediante automatización y estandarización.
 
-Mi enfoque está orientado a la estandarización, automatización y mejora continua de infraestructuras.
+Mi trabajo consiste en reducir el riesgo operativo mediante automatización, estandarización y criterio técnico.
 
-Anteriormente desempeñé el rol de líder técnico de un equipo Unix/Linux en entorno bancario, gestionando infraestructuras críticas con altos requisitos de disponibilidad, seguridad y rendimiento.
-
-Apasionado de la ciberseguridad, la automatización y el aprendizaje continuo. Me considero una persona resolutiva, metódica y con mentalidad autodidacta, con una clara orientación a la mejora continua y a la optimización de procesos.
+Actualmente continúo ampliando mi especialización en ciberseguridad mientras desarrollo soluciones orientadas a mejorar la resiliencia y la operación de plataformas Linux Enterprise.
 
 <br>
 <b>Certificaciones</b>
 <p align style="right">
+<a href="https://www.credly.com/badges/e35a76df-fd90-490a-9ca4-0ec8c47b1210" target="_blank"><img alt="ITS" src="/assets/img/its.png" width="100"/></a>
+<a href="https://www.credly.com/badges/625f9644-f690-4df6-86ab-d32754412880" target="_blank"><img alt="CCST" src="/assets/img/ccst.png" width="100"/></a>
 <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000224902/ru78s9x3d2" target="_blank"><img alt="LPIC-1" src="/assets/img/lpic.png" width="100"/></a>
 <a href="https://www.credly.com/badges/3cfbccf8-c514-4655-ae58-2ad09d657672/" target="_blank"><img alt="VMWare" src="/assets/img/vmware.png" width="94"/></a>
 <a href="https://www.credly.com/badges/1d188caa-7573-4ae2-94f0-9777a1d2c3d3/" target="_blank"><img alt="Azure" src="/assets/img/az900.png" width="94"/></a>
